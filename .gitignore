@@ -1,2 +1,4 @@
 *.diff
 *.ccls-cache
+*.o
+st
